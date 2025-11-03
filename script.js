@@ -26,8 +26,3 @@ function play_se(){
 
 alert(`【警告】あなたの端末からウィルスを検知しました次のページから除去してください`)
 play_se();
-
-    history.pushState(null, null, null);
-    return;
-
-});
